@@ -7,6 +7,13 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | Nome | Tecnologia | Descrição curta |
 | ------------- | ------------- | ------------- |
 | [Swiper](https://swiperjs.com/) | JavaScript | Bibliotecas de slides/carrosseis |
+| [barba](https://barba.js.org/) | JavaScript | Blibliotecas de transição |
+| [slick](https://kenwheeler.github.io/slick/) | JavaScript | Bibliotecas de slides/carrosseis |
+| [Particles](https://vincentgarreau.com/particles.js/) | JavaScript | Bibliotecas de partículas |
+| [Tilt](https://gijsroge.github.io/tilt.js/) | JavaScript | Bibliotecas de efeitos |
+| [GSAP](https://gsap.com/) | JavaScript | Bibliotecas de animação |
+| [mo.js](https://mojs.github.io/) |JavaScript | Biblioteca de efeitos |
+| [shadcn](https://ui.shadcn.com/) | React |  Bibliotecas de coleção de componentes |
 
 ## Contribuição ✨
 
