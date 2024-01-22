@@ -14,6 +14,8 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [GSAP](https://gsap.com/) | JavaScript | Bibliotecas de animação |
 | [mo.js](https://mojs.github.io/) |JavaScript | Biblioteca de efeitos |
 | [shadcn](https://ui.shadcn.com/) | React |  Bibliotecas de coleção de componentes |
+|[animista](https://animista.net/) | CSS | Ferramenta para gerar animações
+|[cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67) | CSS | Ferramenta para gerar transições
 
 ## Contribuição ✨
 
