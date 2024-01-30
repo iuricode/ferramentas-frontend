@@ -13,6 +13,7 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [Tilt](https://gijsroge.github.io/tilt.js/) | JavaScript | Bibliotecas de efeitos |
 | [GSAP](https://gsap.com/) | JavaScript | Bibliotecas de animação |
 | [mo.js](https://mojs.github.io/) |JavaScript | Biblioteca de efeitos |
+| [three.js](https://threejs.org/) |JavaScript | Biblioteca de animações 3D |
 | [shadcn](https://ui.shadcn.com/) | React |  Bibliotecas de coleção de componentes |
 |[animista](https://animista.net/) | CSS | Ferramenta para gerar animações
 |[cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67) | CSS | Ferramenta para gerar transições
