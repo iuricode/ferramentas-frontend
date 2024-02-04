@@ -36,6 +36,7 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR) | Extensão | Identificador de fontes usadas em um website
 | [TinyPNG](https://tinypng.com/) | Otimização | Compressão inteligente WebP, PNG e JPEG para tornar os sites mais rápidos
 | [Contrast Checker](https://contrastchecker.com/) | Otimização | Medidor de contraste do background e da fonte
+| [Squoosh](https://squoosh.app/) | Otimização | Otimização e redimensionamento de imagens
 
 ## Contribuição ✨
 
