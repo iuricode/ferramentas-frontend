@@ -25,7 +25,17 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [CSS Scan - box-shadows examples](https://getcssscan.com/css-box-shadow-examples) | CSS | Exemplos de box-shadows |
 | [CSS Scan - checkboxes examples](https://getcssscan.com/css-checkboxes-examples) | CSS | Exemplos de checkboxes |
 | [CSS Gradient](https://cssgradient.io) | CSS | Ferramenta para gerar gradientes |
-| [UIVerse](https://uiverse.io) | CSS | Elementos de UI open-source para qualquer projeto |
+| [ColorZilla](https://chromewebstore.google.com/detail/colorzilla/bhlhnicpbhignbdhedgjhgdocnmhomnp?hl=pt-BR) | Extensão | Conta-gotas de cores da página Web
+| [Dimensions](https://chrome.google.com/webstore/detail/baocaagndhipibgklemoalmkljaimfdj) | Extensão | Uma ferramenta para medir as dimensões da tela
+| [Lighthouse](https://chromewebstore.google.com/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk) | Extensão | Ferramenta que fornece sugestões de como melhorar o desempenho, qualidade e correção de suas aplicações web
+| [Pesticide for Chrome](https://chrome.google.com/webstore/detail/bakpbgckdnepkmkeaiomhmfcnejndkbi) | Extensão | Ajuda a visualizar o posicionamento dos elementos na tela
+| [Responsive Viewer](https://chrome.google.com/webstore/detail/inmopeiepgfljkpkidclfgbgbmfcennb) | Extensão | Mostra múltiplas telas, testador de design responsivo
+| [Wappalyzer - Technology profiler](https://chromewebstore.google.com/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg) | Extensão | Identifica tecnologias web usadas em um site
+| [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) | Extensão | Adiciona uma barra de ferramentas com várias ferramentas de desenvolvedor web
+| [Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) | Extensão | Mede métricas para um site saudável
+| [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR) | Extensão | Identificador de fontes usadas em um website
+| [TinyPNG](https://tinypng.com/) | Otimização | Compressão inteligente WebP, PNG e JPEG para tornar os sites mais rápidos
+| [Contrast Checker](https://contrastchecker.com/) | Otimização | Medidor de contraste do background e da fonte
 
 ## Contribuição ✨
 
