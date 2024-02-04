@@ -14,13 +14,18 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [GSAP](https://gsap.com/) | JavaScript | Bibliotecas de animação |
 | [mo.js](https://mojs.github.io/) |JavaScript | Biblioteca de efeitos |
 | [three.js](https://threejs.org/) |JavaScript | Biblioteca de animações 3D |
+| [Sweet Alert 2](https://sweetalert2.github.io) |JavaScript | Alternativa para caixas pop-up |
 | [shadcn](https://ui.shadcn.com/) | React |  Bibliotecas de coleção de componentes |
 | [animista](https://animista.net/) | CSS | Ferramenta para gerar animações
 | [cubic-bezier](https://cubic-bezier.com/#.17,.67,.83,.67) | CSS | Ferramenta para gerar transições
 | [Hover](https://ianlunn.github.io/Hover/) | CSS | Animações diversas utilizando Hover |
 | [WickedCSS animations](https://kristofferandreasen.github.io/wickedCSS/) | CSS | Efeitos de animações variados |
 | [Image Hover](http://imagehover.io/) | CSS | Animações utilizando Hover em imagens |
-| [Csshake](https://elrumordelaluz.github.io/csshake/) | CSS | Animações que fazem elementos tremem de maneiras diferentess|
+| [Csshake](https://elrumordelaluz.github.io/csshake/) | CSS | Animações que fazem elementos tremem de maneiras diferentes |
+| [CSS Scan - box-shadows examples](https://getcssscan.com/css-box-shadow-examples) | CSS | Exemplos de box-shadows |
+| [CSS Scan - checkboxes examples](https://getcssscan.com/css-checkboxes-examples) | CSS | Exemplos de checkboxes |
+| [CSS Gradient](https://cssgradient.io) | CSS | Ferramenta para gerar gradientes |
+| [UIVerse](https://uiverse.io) | CSS | Elementos de UI open-source para qualquer projeto |
 
 ## Contribuição ✨
 
