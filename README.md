@@ -37,6 +37,7 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [TinyPNG](https://tinypng.com/) | Otimização | Compressão inteligente WebP, PNG e JPEG para tornar os sites mais rápidos
 | [Contrast Checker](https://contrastchecker.com/) | Otimização | Medidor de contraste do background e da fonte
 | [Squoosh](https://squoosh.app/) | Otimização | Otimização e redimensionamento de imagens
+| [ConvertIco](https://convertico.com/) | Utilitário | Converte uma imagem em um favicon
 
 ## Contribuição ✨
 
