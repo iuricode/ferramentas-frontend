@@ -34,6 +34,8 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [Web Developer](https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm?hl=pt-BR) | Extensão | Adiciona uma barra de ferramentas com várias ferramentas de desenvolvedor web
 | [Web Vitals](https://chromewebstore.google.com/detail/web-vitals/ahfhijdlegdabablpippeagghigmibma) | Extensão | Mede métricas para um site saudável
 | [WhatFont](https://chromewebstore.google.com/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm?hl=pt-BR) | Extensão | Identificador de fontes usadas em um website
+| [axe DevTools](https://chromewebstore.google.com/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd?hl=pt-PT&utm_source=ext_sidebar&pli=1) | Extensão | Verificador de acessibilidade para desenvolvedores, testadores e designers no Chrome
+| [React Developer Tools](https://chromewebstore.google.com/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) | Extensão | É uma extensão do Chrome para desenvolvedores React, permitindo inspeção de componentes, monitoramento de estados e alterações dinâmicas
 | [TinyPNG](https://tinypng.com/) | Otimização | Compressão inteligente WebP, PNG e JPEG para tornar os sites mais rápidos
 | [Contrast Checker](https://contrastchecker.com/) | Otimização | Medidor de contraste do background e da fonte
 | [Squoosh](https://squoosh.app/) | Otimização | Otimização e redimensionamento de imagens
