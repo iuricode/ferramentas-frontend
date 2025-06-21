@@ -45,6 +45,10 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 
 Ajude a comunidade tornando este projeto ainda mais incrível. Leia como contribuir clicando **[aqui](https://github.com/iuricode/ferramentas-frontend/blob/main/CONTRIBUTING.md)** e a **[licença](https://github.com/iuricode/ferramentas-frontend/blob/main/LICENSE.md)**. Estou convencido de que juntos alcançaremos coisas incríveis!
 
-## Aprenda programação ❤️
+## Disponível para freelas - #OpenToWork 🚀
 
-Este repositório é um projeto gratuito para a comunidade de desenvolvedores, mas você pode me ajudar comprando o meu curso "**[FrontCode](https://iuricode.com/frontcode)**" se estiver interessado em aprender ou melhorar suas habilidades na programação. A sua compra me ajuda a produzir e fornecer mais conteúdo gratuito para a comunidade. Adquira agora e comece sua jornada na programação.
+Atualmente estou aberto para oportunidades como Desenvolvedor Frontend e UI/UX Designer. Se você precisa de alguém para transformar ideias em interfaces bonitas, responsivas e funcionais, podemos trabalhar juntos!
+
+📬 Entre em contato:
+📧 iuricold99@gmail.com
+💼 [Linkedin](https://www.linkedin.com/in/iuricode/)
