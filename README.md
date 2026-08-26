@@ -40,6 +40,7 @@ Bem-vindo(a) ao **Ferramentas Frontend**! Este projeto open source é um conjunt
 | [Contrast Checker](https://contrastchecker.com/) | Otimização | Medidor de contraste do background e da fonte
 | [Squoosh](https://squoosh.app/) | Otimização | Otimização e redimensionamento de imagens
 | [ConvertIco](https://convertico.com/) | Utilitário | Converte uma imagem em um favicon
+| [A Box of Tools](https://abox.tools/pt/) | Utilitário | 35 ferramentas de arquivo no navegador: comprimir imagem, favicon .ico, PDF, vídeo, JSON — sem upload
 
 ## Contribuição ✨
 
